@@ -13,12 +13,11 @@ Approve/Decline Request
 Download Bills
 
 Instructions:
-After you finish downloading the project, unzip the project file and head over to the project root folder.
-You can also create a Virtual Environment and Activate it.
-Open your Terminal/Command Prompt on the project’s root folder.
-Install the Requirements: pip install -r requirements.txt.
-Then, make database migrations: python manage.py makemigrations
-python manage.py migrate
-And finally, after a successful migration run the application: python manage.py runserver
-At last, open up your favorite web browser
+1. After you finish downloading the project, unzip the project file and head over to the project root folder.
+2. You can also create a Virtual Environment and Activate it.
+3. Open your Terminal/Command Prompt on the project’s root folder.
+4. Install the Requirements: pip install -r requirements.txt. Then, make database migrations: python manage.py makemigrations
+6. python manage.py migrate
+7. And finally, after a successful migration run the application: python manage.py runserver
+8. At last, open up your favorite web browser
 For the Admin Panel credentials, you have to create one with a superuser.
